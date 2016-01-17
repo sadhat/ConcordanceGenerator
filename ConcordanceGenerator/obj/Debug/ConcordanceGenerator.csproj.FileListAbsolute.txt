@@ -1,0 +1,6 @@
+C:\Users\syahmed\Documents\Visual Studio 2013\Projects\ConcordanceGenerator\ConcordanceGenerator\bin\Debug\ConcordanceGenerator.exe.config
+C:\Users\syahmed\Documents\Visual Studio 2013\Projects\ConcordanceGenerator\ConcordanceGenerator\bin\Debug\ConcordanceGenerator.exe
+C:\Users\syahmed\Documents\Visual Studio 2013\Projects\ConcordanceGenerator\ConcordanceGenerator\bin\Debug\ConcordanceGenerator.pdb
+C:\Users\syahmed\Documents\Visual Studio 2013\Projects\ConcordanceGenerator\ConcordanceGenerator\obj\Debug\ConcordanceGenerator.csprojResolveAssemblyReference.cache
+C:\Users\syahmed\Documents\Visual Studio 2013\Projects\ConcordanceGenerator\ConcordanceGenerator\obj\Debug\ConcordanceGenerator.exe
+C:\Users\syahmed\Documents\Visual Studio 2013\Projects\ConcordanceGenerator\ConcordanceGenerator\obj\Debug\ConcordanceGenerator.pdb
